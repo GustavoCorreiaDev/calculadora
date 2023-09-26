@@ -16,4 +16,4 @@ Esta é uma calculadora simples desenvolvida em JavaScript que permite realizar 
 
 ## Como Usar
 
-1. Clone o repositório para a sua máquina local
+1. https://gustavocorreiadev.github.io/calculadora/
